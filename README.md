@@ -3,10 +3,6 @@
 
 🏫 Education: IIIT Hyderabad (B.Tech in CSE)
 
-🌍 Hometown: Balrampur, Uttar Pradesh
-
-🎓 High School: Jawahar Navodaya Vidyalaya, Prayagraj
-
 💻 Areas of Interest: System Design, Algorithmic Problem Solving,and IoT
 
 🚀 Career Goal: To become an entrepreneur and contribute to India's economy by creating jobs
