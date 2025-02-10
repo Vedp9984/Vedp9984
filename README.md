@@ -1,4 +1,4 @@
-# Vedp9984-
+
 🌟 About Me
 
 🏫 Education: IIIT Hyderabad (B.Tech in CSE)
