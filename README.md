@@ -9,21 +9,13 @@
 
 🎥 Hobbies: Watching movies, biographies, podcasts, and TED Talks
 
-💻 Skills and Technologies
-
-Programming Languages: C, Python, C++, JavaScript
-
-Core CS Subjects: Data Structures & Algorithms, Computer Systems Organization, Operating Systems
-
-Development Tools: Git, Makefile, Debugging Tools
-
 📚 Current Focus
 
 Enhancing my understanding of system-level programming
 
 Building projects that integrate multiple aspects of computer science
 
-Exploring the intersection of AI and systems
+Exploring the intersection of AI and ML systems
 
 🌱 What I’m Learning
 
