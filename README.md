@@ -9,18 +9,12 @@
 
 🎥 Hobbies: Watching movies, biographies, podcasts, and TED Talks
 
-📚 Current Focus
-
-Enhancing my understanding of system-level programming
-
-Building projects that integrate multiple aspects of computer science
-
-Exploring the intersection of AI and ML systems
 
 🌱 What I’m Learning
 
 AI/ML
-software system design
+software system design 
+software programming for performance
 Data visualisation
 
 💼 Projects
