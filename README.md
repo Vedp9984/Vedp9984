@@ -5,9 +5,7 @@
 
 💻 Areas of Interest: System Design, Algorithmic Problem Solving,and IoT
 
-🚀 Career Goal: To become an entrepreneur and contribute to India's economy by creating jobs
 
-🎥 Hobbies: Watching movies, biographies, podcasts, and TED Talks
 
 
 🌱 What I’m Learning
