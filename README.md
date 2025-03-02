@@ -1,12 +1,7 @@
 
 🌟 About Me
 
-🏫 Education: IIIT Hyderabad (B.Tech in CSE)
-
-💻 Areas of Interest: System Design, Algorithmic Problem Solving,and IoT
-
-
-
+🏫 Education:🚀 B.Tech CSE @ IIIT Hyderabad
 
 🌱 What I’m Learning
 
