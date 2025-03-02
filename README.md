@@ -2,14 +2,6 @@
 🌟 About Me
 
 🏫 Education:🚀 B.Tech CSE @ IIIT Hyderabad
-
-🌱 What I’m Learning
-
-AI/ML
-software system design 
-software programming for performance
-Data visualisation
-
 💼 Projects
 Check out more of my projects in the repositories section.
 
