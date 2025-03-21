@@ -2,7 +2,8 @@
 🌟 About Me
 
 🏫 Education:🚀 B.Tech CSE @ IIIT Hyderabad
-💼 Projects
+
+💼 Projects:
 Check out more of my projects in the repositories section.
 
 📫 Let's Connect!
