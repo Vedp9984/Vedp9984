@@ -16,14 +16,7 @@
 # 🚀 About Me
 
 - 🎓 **B.Tech Computer Science & Engineering** @ IIIT Hyderabad
-- 🔬 Undergraduate Researcher
 - 💻 Interested in AI, Machine Learning, Computer Vision, Systems and Food Computing
-- 🌱 Currently working on:
-  - Food Computing Survey
-  - Crop Disease Detection
-  - Digital Design
-- 💡 I enjoy building research-driven software.
-
 ---
 
 # 🛠 Tech Stack
@@ -69,8 +62,5 @@
 
 </p>
 
----
-
-> *"Code. Learn. Build. Share."*
 
 
