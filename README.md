@@ -26,15 +26,6 @@
 
 ---
 
-# 💼 Experience
-
-- 🏢 Texas Instruments — Digital Engineering Intern
-- 🏢 IIT Bombay — Machine Learning Research Intern
-- 🏢 Virtual Labs — Software Engineer Intern
-- 🏢 Perceptive Analytics — Application Developer
-
----
-
 # 🛠 Tech Stack
 
 <p align="center">
@@ -61,26 +52,6 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedp9984&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vedp9984&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 📌 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🍽 Food Computing Survey | Survey of food computing literature |
-| 🌶 Crop Disease Detection | Deep learning for agriculture |
-| 🩻 X-Ray Report Analysis | AI-assisted medical report understanding |
-| 📂 Distributed File System | Operating systems project |
-| 📡 Wireless Communication Labs | Interactive simulations |
 
 ---
 
