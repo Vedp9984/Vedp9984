@@ -1,66 +1,23 @@
-
-# <h1 align="center">Hi 👋, I'm Ved </h1>
-
-<h3 align="center">CS Honors @ IIIT Hyderabad | AI • ML • Systems • Computer Vision</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Research;Software+Developer;Food+Computing+Researcher;Building+Technology+for+Impact" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Vedp9984&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
+### Hi, I'm Ved Prakash Maurya 👋
 
 ---
 
-# 🚀 About Me
+AI Researcher | Software Engineer | B.Tech CSE @ IIIT Hyderabad
 
-- 🎓 **B.Tech Computer Science & Engineering** @ IIIT Hyderabad
-- 💻 Interested in AI, Machine Learning, Computer Vision, Systems and Food Computing
----
+#### I'm an AI enthusiast and software developer based in India.
 
-# 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,flask,mysql,mongodb,git,linux,pytorch,opencv,vscode,bash"/>
-</p>
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vedp9984&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedp9984&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Vedp9984&theme=tokyonight&hide_border=true"/>
-</p>
+- 🎓 Pursuing **B.Tech (Honors) in Computer Science & Engineering** at **IIIT Hyderabad**
+- 💼 Previously worked at **Salesforce**, **Virtual Labs**, and **Perceptive Analytics**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Knowledge Graphs, Computer Vision, and Systems**
+- 🌱 Currently building AI solutions for healthcare, food computing, and real-world applications
+- 🏆 Amazon ML Summer School 2025 | Harvard Aspire Leaders Program 2025 | Flipkart GRiD 7.0 Semifinalist
+- 📫 Reach me:
+  - 📧 **mvedp998@gmail.com**
+  - 💼 <a href="https://www.linkedin.com/in/ved-prakash-maurya-00b5542b0/">LinkedIn</a>
+  - 💻 <a href="https://github.com/Vedp9984">GitHub</a>
 
 ---
 
-# 📊 Contribution Graph
+[![Ved's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedp9984&bg_color=0d1117&color=ffffff&line=58a6ff&point=f85149&area=true&hide_border=true)](https://github.com/Vedp9984)
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedp9984&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🌐 Connect
-
-<p align="center">
-
-<a href="mailto:ved.maurya@students.iiit.ac.in">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ved-prakash-maurya-00b5542b0/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
-
-
+⭐️ Thanks for visiting my profile!
