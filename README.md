@@ -7,7 +7,7 @@
 
 
 - 🎓 Pursuing **B.Tech (Honors) in Computer Science & Engineering** at **IIIT Hyderabad**
-- 💼 Previously worked at **Salesforce**, **Virtual Labs**, and **Perceptive Analytics**
+- 💼 Previously worked as intern at **Salesforce**,**Chubb**, **Virtual Labs**, and **Perceptive Analytics**
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning, Knowledge Graphs, Computer Vision, and Systems**
 - 📫 Reach me:
   - 📧 **mvedp998@gmail.com**
