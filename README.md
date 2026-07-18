@@ -12,7 +12,7 @@
 - 📫 Reach me:
   - 📧 **mvedp998@gmail.com**
   - 💼 <a href="https://www.linkedin.com/in/ved-prakash-maurya-00b5542b0/">LinkedIn</a>
-  - 💻 <a href="https://github.com/Vedp9984">GitHub</a>
+  
 
 ---
 
