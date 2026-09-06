@@ -14,5 +14,5 @@
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedp9984)
+[![Ved's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedp9984&bg_color=0d1117&color=ffffff&line=58a6ff&point=f85149&area=true&hide_border=true)](https://github.com/Vedp9984)
 ⭐️ Thanks for visiting my profile!
