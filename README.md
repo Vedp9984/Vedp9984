@@ -2,7 +2,6 @@
 
 **Software Engineer | B.Tech (Hons.) CSE @ IIIT Hyderabad**
 
-- 🎓 Computer Science @ IIIT Hyderabad
 - 🤖 AI/ML • Knowledge Graphs • Computer Vision • Systems
 - 💻 Competitive Programming & Problem Solving
 
