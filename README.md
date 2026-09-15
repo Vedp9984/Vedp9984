@@ -17,11 +17,3 @@
 - 🏆 **Competitive Programming** — algorithms, data structures, problem solving
 
 ---
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,cv,opencv,java,js,ts,react,nodejs,docker,git,linux,vscode" />
-</p>
-
-
