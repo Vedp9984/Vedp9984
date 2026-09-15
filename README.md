@@ -7,10 +7,12 @@
 - 💻 Competitive Programming & Problem Solving
 - 📈 Continuously improving
 
-📫 [LinkedIn](https://www.linkedin.com/in/ved-prakash-maurya-00b5542b0/) • [Email](mailto:mvedp998@gmail.com)
 
-### 📊 GitHub
+### 📊 GitHub Contributions
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
+  <img src="./assets/contributions.light.svg" alt="GitHub Contributions" width="100%">
+</picture>
+
+⭐️ Thanks for visiting!
