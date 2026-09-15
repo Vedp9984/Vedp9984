@@ -2,7 +2,7 @@
 
 ---
 
- Software Engineer | B.Tech CSE @ IIIT Hyderabad
+
 
 
 - 🎓 Pursuing **B.Tech (Honors) in Computer Science & Engineering** at **IIIT Hyderabad**
@@ -14,5 +14,5 @@
 
 ---
 
-[![Ved's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedp9984&bg_color=0d1117&color=ffffff&line=58a6ff&point=f85149&area=true&hide_border=true)](https://github.com/Vedp9984)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedp9984&theme=github-dark&hide_border=true)
 ⭐️ Thanks for visiting my profile!
