@@ -24,26 +24,4 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,cv,opencv,java,js,ts,react,nodejs,docker,git,linux,vscode" />
 </p>
 
----
 
-### 📈 GitHub Contributions
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/contributions.dark.svg"
-  />
-  <img
-    src="./assets/contributions.light.svg"
-    alt="GitHub Contributions"
-    width="100%"
-  />
-</picture>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vedp9984&color=blueviolet&style=flat" alt="profile views"/>
-</p>
-
-<p align="center">⭐️ Thanks for stopping by — feel free to explore my repos!</p>
